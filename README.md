@@ -6,4 +6,4 @@ José David Barona;
 Diego Ledesma;
 Edwin Cuaran;
 
-Universidad del Valle, Cali - 2019.
+Universidad del Valle, Cali, Colombia - 2019.
