@@ -1,5 +1,9 @@
-# mySnake
-Snake del proyecto de FDP
+SNAKE EVOLUTION
 
-En la branch (rama): balas, está el código del snake que dispara. No pueden haber más de
-dos balas juntas en la pantalla.
+Andrés Felipe Rincón
+Samuel Riascos
+José David Barona
+Diego Ledesma
+Edwin Cuaran
+
+Universidad del Valle, Cali - 2019.
