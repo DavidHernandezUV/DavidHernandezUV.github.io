@@ -4,9 +4,13 @@ SNAKE EVOLUTION
 ////////////PROGRAMMERS///////////////// 
 
 Andrés Felipe Rincón;
+
 Samuel Riascos;
+
 José David Barona;
+
 Diego Ledesma;
+
 Edwin Cuaran;
 
 ///////////INSTRUCTIONS/////////////////////
