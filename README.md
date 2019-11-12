@@ -1,7 +1,8 @@
 SNAKE EVOLUTION
 (FUNCTIONAL PROGRAMMING)
 
-////////////PROGRAMMERS//////////////// / \n
+////////////PROGRAMMERS///////////////// 
+
 Andrés Felipe Rincón;
 Samuel Riascos;
 José David Barona;
