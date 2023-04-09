@@ -1,7 +1,7 @@
-SNAKE EVOLUTION
-(FUNCTIONAL PROGRAMMING)
+# SNAKE EVOLUTION (FUNCTIONAL PROGRAMMING)
 
-////////////PROGRAMMERS///////////////// 
+
+## PROGRAMMERS
 
 Andrés Felipe Rincón;
 
@@ -13,8 +13,8 @@ Diego Ledesma;
 
 Edwin Cuaran;
 
-///////////INSTRUCTIONS/////////////////////
+## INSTRUCTIONS
 
-JUST PLAY AND ENJOY! 
+[JUST PLAY AND ENJOY! ](https://davidhernandezuv.github.io/)
 
 Universidad del Valle, Cali, Colombia - 2019.
